@@ -4,6 +4,10 @@ An Approach to Optimizing Snake AI Using Genetic Algorithm and Neural Networks
 Original Repository That I and Team Members Worked on for a Project:
 https://github.com/GorillaDondon/AI_Snake_Game
 
+The goal of the program is to create a snake AI that could beat the game of snake. Through the crossbreeding of many generations, the algorithm is supposed to get better at reaching the fruit without hitting itself and walls. 
+
+
+
 
 > **Requirements**
 
@@ -25,7 +29,7 @@ Output layer has 4 possible outputs, corresponding to the 4 possible movements. 
 
 > **Game Flow**
 
-The program starts Pygame and opens up a game window. The initial population of neural networks is generated.
+The program starts Pygame and opens up a game window. The initial population of neural networks is generated. As each neural network runs and a generation is completed, records of their results are saved in a text file as well as visualized in a graph. 
 
 After all the weights and biases are generated for the neural networks of the generation, each is ran individually.
 
