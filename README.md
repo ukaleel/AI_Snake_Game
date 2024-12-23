@@ -1,7 +1,7 @@
 # AI_Snake_Game
 An approach to optimizing Snake AI using genetic algorithm and neural networks
 
-Original repository that I and team members worked on for a project:
+Original repository that I and team members worked on for a final project:
 https://github.com/GorillaDondon/AI_Snake_Game
 
 The goal of the program is to create a snake AI that could beat the game of snake. Through the crossbreeding of many generations, the algorithm is supposed to get better at reaching the fruit without hitting itself and walls. 
